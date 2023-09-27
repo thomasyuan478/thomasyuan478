@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+For as long as I can remember, I have had a love for the intricate and the complex. I am perpetually curious and once hooked on an interesting topic, I will ask questions and hunt for answers until I am satisfied with the depth of my understanding. In college, my main focus was on Chemistry and Physics, which I majored and minored in respectively. My favorite projects involved searching for exoplanets with the KELT-Follow Up Network and the extremely detailed and sensitive work of creating standards in an analytical chemistry laboratory.
+
+Following an intensive full-time program at App Academy, I have gained the skills of a qualified full stack software engineer with portfolio projects using React, Redux, Flask, and PostgreSQL. This experience has given me a unique lens through which to see not just applications and websites I use on a daily basis, but life itself. I enjoy theorizing about the behind-the-scenes code in my favorite video games, as well as the instruments I used in chemistry laboratories. With a developing interest in biotechnology, and a desire to apply both my extensive theoretical and practical knowledge in chemistry and physics, I am seeking intriguing opportunities to work on complex logic as a fullstack, front end, or back end engineer.
+
+
 <!--
 **thomasyuan478/thomasyuan478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
